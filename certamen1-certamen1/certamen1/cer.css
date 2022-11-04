@@ -72,8 +72,8 @@ h1{
 
 article{
     border: 1px solid black;
-    width: 80%;
-    margin: 0px auto;
+    width: 70%;
+    margin: 10px auto;
     height: 60%;
 }
 
@@ -92,4 +92,35 @@ article{
     width: 50%;
     height: 400px;
     margin: auto;
+}
+
+#navcervaza{
+    width: 100%;
+}
+#formularioedit{
+    margin: 0 auto;
+    width: 50%;
+   
+
+}
+.h1form{
+    color: black;
+    text-align: center;
+}
+#btnenviar{
+    margin: 0 auto;
+    width: 10%;
+    padding: 20px;
+}
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#footeredit{
+    padding: 50px;
+    height: 200px;
 }
