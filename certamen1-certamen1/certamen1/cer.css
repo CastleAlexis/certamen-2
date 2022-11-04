@@ -13,6 +13,11 @@ body{
     height: 100px;
     /* Aquí puedes escribir tu comentario */
 }
+#carrusel{
+    border: 2px solid black;
+    width: 100%;
+    
+}
 nav{
     border: 2px solid black;
     width: 80%;
@@ -29,7 +34,7 @@ nav{
     padding: 20px;
     text-align: center;
     background-color: #a13737;
-    height: 300px;
+    height: 600px;
 }
 footer{
     border: 1px solid black;
@@ -69,7 +74,6 @@ article{
     border: 1px solid black;
     width: 80%;
     margin: 0px auto;
-    padding: 60px;
     height: 60%;
 }
 
@@ -82,4 +86,10 @@ article{
     text-align: center;
     display: table-cell;
 
+}
+
+.carousel-inner{
+    width: 50%;
+    height: 400px;
+    margin: auto;
 }
